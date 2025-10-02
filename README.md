@@ -53,8 +53,7 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55" height="55" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="55" height="55" />
-  <img width="12" />
+ 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="55" height="55" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" height="55" />
@@ -183,28 +182,30 @@ NEXT_PUBLIC_GA_ID=your_google_analytics_id
 [Contributing Guidelines](CONTRIBUTING.md)
 
 ---
+## Thanks to all Contributors 💪
 
-## 📄 License
+Thanks a lot for spending your time helping the project grow. Thanks a lot! Keep rocking 🍻
+	 
+<p>
+  <img src="https://api.vaunt.dev/v1/github/entities/Unnimaya6122004/repositories/foss-hub/contributors?format=svg&limit=54" width="600" height"250" />
+</p>
 
-MIT License — see [LICENSE](LICENSE)
-
+![Contributors](https://contrib.rocks/image?repo=Unnimaya6122004/foss-hub)
 ---
 
-<div align="center">
-  <h3>Show some ❤️ by starring this repository!</h3>
-  <a href="https://github.com/yourusername/foss-hub/stargazers">
-    <img src="https://img.shields.io/github/stars/yourusername/foss-hub?style=social" />
+---
+<div align="center" style="margin-top: 30px;">
+  <h3 style="color: #ffffff;">Show some ❤️ by starring this repository!</h3>
+  <a href="https://github.com/Unnimaya6122004/foss-hub/stargazers">
+    <img src="https://img.shields.io/github/stars/Unnimaya6122004/foss-hub?style=social&labelColor=00008B&color=00FF99" />
   </a>
 </div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1a1a1a,50:222222,100:111111&section=footer&text=⚙️+Thanks+for+exploring+FOSS+Hub!&fontAlignY=60&fontSize=30&fontColor=00FF99" />
+<p align="center" style="margin-top: 20px;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:00008B,100:00008B&section=footer&text=⚙️+Thanks+for+exploring+FOSS+Hub!&fontAlignY=60&fontSize=30&fontColor=ffffff" />
 </p>
 
 
 
----
 
-If you want, I can **also add a “Featured Tools Preview Section” with FOSS logos and cards** just like the TraceFi dashboard GIFs—it’ll make the README look interactive and professional.
 
-Do you want me to do that next?
