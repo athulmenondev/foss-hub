@@ -1,23 +1,21 @@
-
-
 <a href="#">
   <img align="left" 
        alt="FOSS Hub Banner" 
        width="100%" 
        style="padding-right:10px;" 
-       src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:111111,50:222222,100:333333&text=Welcome%20to%20FOSS%20Hub&fontAlignY=45&fontSize=40&textBg=false&animation=twinkling&fontColor=00FF99" />
+       src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00008B,100:00008B&text=Welcome%20to%20FOSS%20Hub&fontAlignY=45&fontSize=40&textBg=false&animation=twinkling&fontColor=ffffff" />
 </a>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=33FF99&size=30&width=900&height=80&lines=🌟+FOSS+Hub:+Discover+the+Best+Open+Source+Software" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=ffffff&size=30&width=900&height=80&lines=🌟+FOSS+Hub:+Discover+the+Best+Open+Source+Software" />
 </p>
 
-<div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Open_Source_Initiative_logo.svg/800px-Open_Source_Initiative_logo.svg.png" width="48%" height="300px" style="object-fit: cover; margin: 5px;">
-  <img src="https://miro.medium.com/max/1400/1*xxuPR9U5t9eKUpuVJcMyiA.png" width="48%" height="300px" style="object-fit: cover; margin: 5px;">
+<div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+  <img width="550" height="309" alt="image" src="https://github.com/user-attachments/assets/87a55ef6-cd29-4782-bfbe-d2c96350e967" />
+  <img width="550" height="309" alt="image" src="https://github.com/user-attachments/assets/6fcce2f6-1538-4f73-84a4-a373d54a7c4f" />
 </div>
 
----
+
 
 ## 🌐 Introduction
 
