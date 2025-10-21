@@ -268,6 +268,17 @@ export const tools: Tool[] = [
     icon: "⚙️",
     stars: 60,
   },
+  {
+    id: "debian",
+    name: "Debian",
+    description: "Debian is a free and open-source Linux distribution, developed by a community of volunteers called the Debian Project, that was founded in 1993.",
+    category: "System",
+    website: "https://www.debian.org/",
+    github: "https://github.com/debian",
+    icon: "🌀",
+    stars: 610,
+  },
+  
 ];
 
 export const categories = [
