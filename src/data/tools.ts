@@ -278,7 +278,16 @@ export const tools: Tool[] = [
     icon: "🌀",
     stars: 610,
   },
-  
+  {
+    id: "kali",
+    name: "Kali Linux",
+    description: "Kali Linux is an open-source, Debian-based Linux distribution geared towards various information security tasks, such as Penetration Testing, Security Research, Computer Forensics and Reverse Engineering.",
+    category: "System",
+    website: "https://www.kali.org/",
+    github: "https://github.com/topics/kali",
+    icon: "💻 ",
+    stars: 41,
+  },
 ];
 
 export const categories = [
