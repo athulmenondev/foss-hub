@@ -312,7 +312,7 @@ export const tools: Tool[] = [
     id: "ventoy",
     name: "Ventoy",
     description: "Ventoy is an open source tool to create bootable USB drive for ISO/WIM/IMG/VHD(x)/EFI files.With ventoy, you don't need to format the disk over and over, just copy the image files to the USB drive and boot them. You can copy many image files at a time and ventoy will give you a boot menu to select them.",
-    category: "System",
+    category: "Development",
     website: "https://www.ventoy.net/en/index.html",
     github: "https://github.com/ventoy/Ventoy",
     icon: "♆",
