@@ -268,6 +268,26 @@ export const tools: Tool[] = [
     icon: "⚙️",
     stars: 60,
   },
+  {
+    id: "debian",
+    name: "Debian",
+    description: "Debian is a free and open-source Linux distribution, developed by a community of volunteers called the Debian Project, that was founded in 1993.",
+    category: "System",
+    website: "https://www.debian.org/",
+    github: "https://github.com/debian",
+    icon: "🌀",
+    stars: 610,
+  },
+  {
+    id: "kali",
+    name: "Kali Linux",
+    description: "Kali Linux is an open-source, Debian-based Linux distribution geared towards various information security tasks, such as Penetration Testing, Security Research, Computer Forensics and Reverse Engineering.",
+    category: "System",
+    website: "https://www.kali.org/",
+    github: "https://github.com/topics/kali",
+    icon: "💻 ",
+    stars: 41,
+  },
 ];
 
 export const categories = [
